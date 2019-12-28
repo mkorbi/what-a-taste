@@ -2,7 +2,7 @@
 baseURL = "https://whatataste.koerbaecher.io"
 languageCode = "en-us"
 title = "What a taste | The liquids blog"
-theme = "liva"
+theme = "liva-hugo"
 summaryLength = "10"
 paginate = 6
 disqusShortname = ""
