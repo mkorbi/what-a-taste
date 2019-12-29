@@ -54,16 +54,6 @@ disqusShortname = ""
   URL = "blog"
   weight = 3
 
-  [[menu.main]]
-  name = "Gin"
-  URL = "gin"
-  weight = 4
-
-  [[menu.main]]
-  name = "Tonic"
-  URL = "tonic"
-  weight = 5
-
   # footer menu
   [[menu.footer]]
   name = "About"
@@ -74,17 +64,6 @@ disqusShortname = ""
   name = "Posts"
   URL = "blog"
   weight = 3
-
-  [[menu.footer]]
-  name = "Gin"
-  URL = "gin"
-  weight = 4
-
-  [[menu.footer]]
-  name = "Tonic"
-  URL = "tonic"
-  weight = 5
-
 
 #################### default parameters ################################
 [params]
