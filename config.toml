@@ -50,9 +50,19 @@ disqusShortname = ""
   weight = 2
   
   [[menu.main]]
-  name = "Post"
+  name = "Posts"
   URL = "blog"
   weight = 3
+
+  [[menu.main]]
+  name = "Gin"
+  URL = "gin"
+  weight = 4
+
+  [[menu.main]]
+  name = "Tonic"
+  URL = "tonic"
+  weight = 5
 
   # footer menu
   [[menu.footer]]
@@ -61,9 +71,19 @@ disqusShortname = ""
   weight = 2
   
   [[menu.footer]]
-  name = "Post"
+  name = "Posts"
   URL = "blog"
   weight = 3
+
+  [[menu.footer]]
+  name = "Gin"
+  URL = "gin"
+  weight = 4
+
+  [[menu.footer]]
+  name = "Tonic"
+  URL = "tonic"
+  weight = 5
 
 
 #################### default parameters ################################
@@ -71,8 +91,8 @@ disqusShortname = ""
 logo = "images/logo.png"
 home = "Home"
 # Meta data
-description = "This is meta description"
-author = "Themefisher"
+description = "A blog/library/reminder about awesome Gins, Rums and other delicious drinks. Don't drink and drive!"
+author = "Maax Körbächer"
 # Location
 location = "Munich, Germany"
 # copyright

@@ -7,14 +7,19 @@ draft: false
 image: "images/author.jpg"
 
 # meta description
-description: "this is meta description"
+description: "About Max"
 
 # type
 type : "about"
 ---
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet,
+Well, what to say about me? On day I'm guiding companies to the [cloud](wikipedia.org/wiki/Cloud_Computing), playing with [Kubernetes](https://kubernetes.io/) and being excited about tech. At night I like to dry and test different Gins, Rums and co.
 
-consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
+However, this blog/library/remember page is supposed to talk about different drinks I like or don't like. 
 
-nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd
+## Drink responsible!
+I do not support underage drinking, excessive drinking, binge drinking or any other unsafe drinking behavior. Always drink responsibly. DO NOT drink and drive while or after consuming alcohol. Who drives public transport is anyhow 1000x cooler ;)
+
+But seriously, if you feel addicted to alcohol, drink every day or have already the whish in the morning to consume alcohol, then please search for local help.
+
+
