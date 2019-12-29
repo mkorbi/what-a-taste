@@ -20,7 +20,7 @@ tags:
   - "Citrus"
 
 # post type
-type: "featured"
+type: "post"
 ---
 
 # Drumshanbo Gunpowder Irish Gin
