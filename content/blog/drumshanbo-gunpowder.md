@@ -11,7 +11,7 @@ description: "this is meta description"
 
 # taxonomies
 categories: 
-  - "Gin & Tonic"
+  - "Gin"
 tags:
   - "Gin"
   - "Tonic"

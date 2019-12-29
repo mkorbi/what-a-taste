@@ -1,7 +1,7 @@
 ---
-title: "How To Use Checklists To Improve Your UX"
+title: "Method and Madness"
 date: 2019-10-29T10:07:47+06:00
-draft: false
+draft: true
 
 # post thumb
 image: "images/post/post-4.jpg"
@@ -11,13 +11,9 @@ description: "this is meta description"
 
 # taxonomies
 categories: 
-  - "Go Language"
+  - "Gin"
 tags:
-  - "Photos"
-  - "Game"
-  - "HTML"
-  - "Python"
-  - "New"
+  - "gin"
 
 # post type
 type: "post"
